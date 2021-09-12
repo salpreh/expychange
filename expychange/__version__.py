@@ -1,0 +1,8 @@
+__title__ = 'expychange'
+__description__ = 'Internal event listener lib'
+__url__ = 'https://github.com/salpreh/expychange'
+__version__ = '0.1.0'
+__test_version__ = '0.1.0'
+__author__ = 'salpreh'
+__author_email__ = 'salpreh.7@gmail.com'
+__license__ = 'Apache 2.0'
